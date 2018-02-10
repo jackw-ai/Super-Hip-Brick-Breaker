@@ -18,6 +18,9 @@ Doing so will launch a Pygame window that runs the game.
 ## Controls
 Launch the ball by pressing `SPACE`. Control the paddle with your mouse or touchpad. Otherwise use the `A` or `LEFT` keys to move left and `D` or `RIGHT` keys to move right. Press `ENTER` when prompted to restart.
 
+## Setup
+Each game is composed of randomly generated bricks that are so glitzy that you probably can't finish the game.
+
 ## Rules
 Launch the ball to hit the randomly generated bricks to break them. Breaking each brick scores 3 points. Breaking all bricks wins the game. If the ball hits the floor, the player loses a life. Each game starts with 3 lives.
 
